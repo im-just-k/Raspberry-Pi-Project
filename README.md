@@ -2,7 +2,7 @@
 Documentation for "server2.py"
 ## Features
 - **Multi-client Support:** Capable of handling multiple client connections concurrently
-- **User-friendly Disconnection:** Manages client disconnections without crashing.
+- **User-friendly Disconnection:** Manages client disconnections without crashing
 - **Server-side Messaging:** Server can send messages to all connected clients
 
 
