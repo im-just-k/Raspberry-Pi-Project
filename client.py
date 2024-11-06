@@ -6,7 +6,7 @@ import threading
 
 # Server IP and Port (make sure to replace with actual IP of the server)
 SERVER_IP = '192.168.1.3'  # Replace with actual server IP
-SERVER_PORT = 8080
+SERVER_PORT = 8000
 
 # Function to receive messages from the server
 def receive_messages(client_socket):
